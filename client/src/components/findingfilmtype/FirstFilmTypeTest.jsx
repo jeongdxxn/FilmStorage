@@ -5,7 +5,7 @@ export default [
     type: "흑백",
     company: "롤라이",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162210460-acaf0763-cd5a-46b4-824e-81bd41a59ca1.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856088-39d37368-3c63-41e7-ab31-0851b2f8c62c.jpg",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export default [
     type: "컬러",
     company: "씨네스틸",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162210641-65778775-8668-4567-a6b6-f7f91383780e.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856101-fa392a17-5b70-45b5-ba8a-03d78865a370.jpg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export default [
     type: "기타",
     company: "모양",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162212411-1e7250fe-8f3a-41bf-91ae-e7148ddcaae5.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856104-26699d5b-0fcb-47b6-9858-bdc7ae425e76.jpg",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export default [
     type: "컬러",
     company: "후지",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162340921-194ddd7b-0cf2-4cb7-b57f-ae877644d1c3.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856106-acdf95ef-e90b-4552-a808-e4fd87dedc75.jpg",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export default [
     type: "컬러",
     company: "코닥",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162211375-863edf13-8e86-4a28-ba5a-759a782f64b2.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856109-008203e9-65f3-4db8-95ae-d65323191ea0.jpg",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export default [
     type: "흑백",
     company: "롤라이",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162210418-53af515d-bf58-406b-9511-3b6d62ece03e.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856111-51cf38b4-3526-4f52-a13d-0f9362cc253d.jpg",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export default [
     type: "기타",
     company: "컬러",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162212114-b5e9c790-f97b-4c94-ba69-ba7b7d6b5303.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856112-5e144d85-efd6-4187-8686-84bd0f5f65f6.jpg",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export default [
     type: "컬러",
     company: "일회용",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162211715-e8d3ef1e-d84f-4384-af4f-f5bc5076112e.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856113-b10840a9-cf1a-426c-8e69-0c78ed3d6b89.jpg",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export default [
     type: "컬러",
     company: "후지",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162212249-2a47f12e-12d0-465b-b624-d586be3ad572.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856114-d048a6fd-9fb7-48a5-922f-168b5a9928e1.jpg",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export default [
     type: "컬러",
     company: "후지",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162340872-5aa50397-7c17-4de2-8ccd-0860cb2c4738.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856116-51af06c9-6972-4bb2-b387-b17fb064b42c.jpg",
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export default [
     type: "컬러",
     company: "코닥",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162339982-55733170-5d51-470c-942b-29f9d8474b77.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856117-9239bd77-83b3-4ba9-8e9e-6a0d1d7f948c.jpg",
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export default [
     type: "기타",
     company: "모양",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162216622-835f9f5a-9445-4f9b-a53c-caaa49677013.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856119-39b146b3-77ed-4b9a-86b3-c4df585d8e36.jpg",
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export default [
     type: "흑백",
     company: "일포드",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162212828-03f96cb5-130f-430a-a991-55459258e71b.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856121-2e9f26ca-ce24-40af-a7bf-892b5f3e00f8.jpg",
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export default [
     type: "컬러",
     company: "코닥",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162340252-d866b75b-395c-468f-b085-4ef3be07fa47.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856124-977c6b10-873d-43fe-b483-d03822234561.jpg",
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export default [
     type: "컬러",
     company: "로모그래피",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162217031-b598ae0e-ec31-498d-967e-8ec8b9ceef41.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856125-95b5d4d5-f735-4a61-833e-e201c86ab14b.jpg",
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export default [
     type: "흑백",
     company: "일포드",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162212907-4434c838-ae83-47f4-9173-125d76157ff9.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856127-7bb7c886-1e9a-4be8-aceb-98864aede42b.jpg",
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export default [
     type: "기타",
     company: "모양",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162212621-acbdc596-324f-4801-adc7-d03311c08f00.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856130-5e66b7bd-7e29-4502-a7c8-e92ffbeea9aa.jpg",
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export default [
     type: "컬러",
     company: "로모그래피",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162217009-f1e8d6a2-59f4-4655-8e25-a4209da0e736.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856132-654df978-216f-44c2-be51-5249e193732f.jpg",
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export default [
     type: "컬러",
     company: "코닥",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162345091-e2e5b71a-ac5d-4417-8805-212c63d83fc2.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856134-8c38a68c-a6b9-4a8c-8d1c-ee0d6415b74b.jpg",
   },
   {
     id: 20,
@@ -157,7 +157,7 @@ export default [
     type: "컬러",
     company: "일회용",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162215008-a7c82a0e-d16b-4916-a8d1-4c08f8298c88.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856139-f45d6de1-abfb-4297-ad45-d123711570c1.jpg",
   },
   {
     id: 21,
@@ -165,7 +165,7 @@ export default [
     type: "흑백",
     company: "코닥티맥스",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162216027-7bc7f3f0-321b-45e9-986a-a0be4d4f1c67.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856140-043b01c3-93b1-4052-921c-a6f3bfcd26cb.jpg",
   },
   {
     id: 22,
@@ -173,7 +173,7 @@ export default [
     type: "기타",
     company: "컬러 ",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162344602-91272c9d-bf52-482e-a3a7-1860fa2ade8b.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856141-f25efd58-79a6-4844-bdb6-c19984898f5e.jpg",
   },
   {
     id: 23,
@@ -181,7 +181,7 @@ export default [
     type: "컬러",
     company: "씨네스틸",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162210805-de0d8132-3e0b-4db9-8a69-45a96b6091fa.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856142-6d65d811-7edc-4e41-9c39-65fd8732572d.jpg",
   },
   {
     id: 24,
@@ -189,7 +189,7 @@ export default [
     type: "컬러",
     company: "로모그래피",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162217044-f7ae4338-295e-4ad3-b2a6-87f2451d19dd.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856144-dea72545-d42e-4143-8756-b79d90f953c3.jpg",
   },
   {
     id: 25,
@@ -197,7 +197,7 @@ export default [
     type: "흑백",
     company: "코닥티맥스",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162216041-f3474ecc-22d7-4137-9d1c-5e589db0c28e.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856145-31af4337-a18c-47d9-a798-b97c18383312.jpg",
   },
   {
     id: 26,
@@ -205,7 +205,7 @@ export default [
     type: "기타",
     company: "모양",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162216683-184a31fc-71c8-488e-b082-1aa015c1ef68.jpeg",
+    src: "https://user-images.githubusercontent.com/87605663/166856146-d89803e1-4cfa-478a-ad02-54171af699f1.jpg",
   },
   {
     id: 27,
@@ -213,6 +213,9 @@ export default [
     type: "컬러",
     company: "후지",
     active: false,
-    src: "https://user-images.githubusercontent.com/87605663/162341105-cecba665-e2db-49de-93a4-405ff13bc79e.JPG",
+    src: "https://user-images.githubusercontent.com/87605663/166856148-4eabaac7-9d07-495c-b3ce-c6b744a6c74b.jpg",
   },
 ];
+
+
+
