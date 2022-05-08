@@ -276,7 +276,8 @@ export default function FindingFilmTypePage() {
 
 const Container = styled.div`
   width: 100vw;
-  min-height: 100vh;
+  min-height: 90vh;
+  padding: 10px 0 50px 0;
   display: flex;
   flex-direction: column;
   align-items: center;
